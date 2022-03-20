@@ -1,0 +1,185 @@
+.first-section{
+    margin: 0 auto;
+    width: 1160px;
+    
+}
+.second-section{
+    margin: auto;
+    width: 1160px;
+    
+}
+body{
+    background-color: #F6F8F9;
+}
+/* header styles*/
+header{
+    height: 50px;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 38px;
+    text-transform: uppercase;
+    color: #FA6980;
+    margin: 18px 92px 17px 20px;
+    font-family: helvetica;
+    font-size: 13px;
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li{
+    display: inline-block;
+    font-family: helvetica;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
+.active{
+    margin:20px 27px 18px 0px;
+    color: #343638;
+    font-weight: bold;
+}
+.second{
+    margin: 20px 22px 18px 0px;
+    color: #343638;
+}
+.third{
+    margin: 20px 22px 18px 0px;
+    color: #343638;
+}
+.fourth{
+    margin: 20px 40px 18px 0px;
+    color: #343638;
+}
+.header-img{
+ display: inline-block;
+ margin-top: 11px;
+ vertical-align: top;
+
+}
+
+/*top-section styles*/
+.first-section{
+    margin-top: 25px;
+    margin-bottom: 58px; 
+    font-size: 0;
+}
+
+
+.title{
+    color: #202124;
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: helvetica;
+}
+
+.left-block{
+    display: inline-block;
+    width: 360px;
+    margin-right: 40px;
+    background-color: #FFFFFF;
+    
+}
+
+.middle-block{
+    display: inline-block;
+    width: 360px;
+    margin-right: 40px;
+    background-color: #FFFFFF;
+    
+
+}
+
+.right-block{
+    display: inline-block;
+    width: 360px;
+    background-color: #FFFFFF;
+    
+
+}
+
+.paragraph{
+    display: inline-block;
+    width: 280px;
+    margin: 76px 40px 66px 40px;
+    color: #A6ADB4;
+    font-size: 13px;
+    
+}
+
+
+
+/* bottom-section styles */
+
+.second-section{
+    font-size: 0;
+}
+
+
+.bottom-left-block{
+    display: inline-block;
+    width: 760px;
+    margin-right: 40px;
+}
+
+.bottom-right-block{
+    display: inline-block;
+    width: 360px;
+    margin-top: 40px;
+
+}
+.forest{
+    margin-top: 40px;
+}
+    
+  
+.bird{
+    margin-top: 102px;
+}
+
+.road{
+    margin-top: 102px;
+    margin-bottom: 62px;
+}
+
+/* image styles*/
+.img-text{
+    position: absolute;
+    font-size: 16px;
+    color: white;
+    font-family: helvetica;
+    font-weight: bold;
+    top: 28px;
+    left: 40px;
+}
+
+.image-wraper{
+    position: relative;
+}
+
+.img-text2{
+    position: absolute;
+    font-size: 16px;
+    color: white;
+    font-family: helvetica;
+    font-weight: bold;
+    right:20px;
+    bottom: 40px;
+}
+
+.image-wraper2{
+    position: relative;
+}
+
+.img-text3{
+    position: absolute;
+    font-size: 16px;
+    color: white;
+    font-family: helvetica;
+    font-weight: bold;
+    top:18px;
+    left: 40px;
+}
